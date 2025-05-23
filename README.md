@@ -17,7 +17,7 @@ This project is a Smart Parking System web application that provides a live park
 
 ### 1. Clone the Repository
 ```
-git clone <repo-url>
+git clone https://github.com/RavindranathTagor/SmartParking.git
 cd CarParkProject
 ```
 
