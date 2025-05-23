@@ -17,7 +17,7 @@ This project is a Smart Parking System web application that provides a live park
 
 ### 1. Clone the Repository
 ```
-git clone <your-repo-url>
+git clone <repo-url>
 cd CarParkProject
 ```
 
@@ -54,23 +54,3 @@ The app will start on `http://127.0.0.1:5000/` by default.
 - `dynamic_pricing.py` : Dynamic pricing logic
 - `parking_data.csv` : Parking data
 
-## Pushing to GitHub
-1. [Create a new repository on GitHub](https://github.com/new)
-2. Initialize git (if not already):
-   ```
-git init
-git add .
-git commit -m "Initial commit"
-   ```
-3. Add your remote and push:
-   ```
-git remote add origin <your-repo-url>
-git branch -M main
-git push -u origin main
-   ```
-
-## License
-Specify your license here.
-
----
-*Developed as a Smart Parking System demo project.*
